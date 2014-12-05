@@ -57,3 +57,6 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+
+libgdx-master.zip
+libgdx-master/
